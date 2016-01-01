@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Front end standards"
-date:   2016-1-1 18:16:00
-category: frontend
----
 
 ## 1. 规范说明 
 
