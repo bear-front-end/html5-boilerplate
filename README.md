@@ -7,7 +7,7 @@
 
 但是规范也是人定的，不必要太拘泥于此文档，有感觉不合理的地方也欢迎提出修改。
 
-顺便一提自己也写了一遍 [Start mobile front end](http://cody1991.github.io/frontend/2015/12/15/start-mobile-front-end.html) 的博客，有兴趣的可以先读一读。而规范使用的模板可以 [html5-boilerplate](https://github.com/cody-front-end/html5-boilerplate) 找到。
+顺便一提自己也写了一遍 [Start mobile front end](http://cody1991.github.io/frontend/2015/12/15/start-mobile-front-end.html) 的博客，有兴趣的可以先读一读。而规范使用的模板可以 [html5-boilerplate](https://github.com/bear-front-end/html5-boilerplate) 找到。
 
 ## 2. 书写规范
 
@@ -169,7 +169,7 @@
 
 #### 2.4.1 js代码规范
 
-常用的 `js插件` ，使用一个文档来进行维护，公司内部是托管在七牛上，文档由我维护（公司内部使用）。而自己编写的 `js文件` 则统一放在 `./js/` 目录下，可以适当增加子文件夹。
+常用的 `js插件` ，使用一个文档来进行维护，公司内部是托管在七牛上，文档共同维护[lib.md](https://github.com/bear-front-end/html5-boilerplate/blob/master/lib.md)（公司内部使用）。而自己编写的 `js文件` 则统一放在 `./js/` 目录下，可以适当增加子文件夹。
 
 一些简单的代码规范说明
 
