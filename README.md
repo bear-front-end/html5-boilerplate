@@ -169,7 +169,7 @@
 
 #### 2.4.1 js代码规范
 
-常用的 `js插件` ，使用一个文档来进行维护，公司内部是托管在七牛上，文档共同维护[lib.md](https://github.com/bear-front-end/html5-boilerplate/blob/master/lib.md)（公司内部使用）。而自己编写的 `js文件` 则统一放在 `./js/` 目录下，可以适当增加子文件夹。
+常用的 `js插件` ，使用一个文档来进行维护，公司内部是托管在七牛上，文档共同维护 [lib.md](https://github.com/bear-front-end/html5-boilerplate/blob/master/lib.md) （公司内部使用）。而自己编写的 `js文件` 则统一放在 `./js/` 目录下，可以适当增加子文件夹。
 
 一些简单的代码规范说明
 
