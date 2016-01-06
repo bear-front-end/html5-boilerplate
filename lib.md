@@ -56,3 +56,8 @@
 	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/angular/angular-1.3.18.min.js"></script>
 	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/angular/angular-1.4.2.js"></script>
 	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/angular/angular-1.4.2.min.js"></script>
+
+#####vue
+
+	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/vue/vue.js"></script>
+	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/vue/vue.min.js"></script>
