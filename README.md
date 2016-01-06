@@ -1,4 +1,3 @@
-
 ## 1. 规范说明 
 
 此规范用于 [深圳市暖柚科技有限公司](http://www.impingo.me/) 日常前端开发使用的规范，参考[前端规范 Front-End-Standards.com](http://front-end-standards.com/)而来。
