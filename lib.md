@@ -2,6 +2,14 @@
 
 此文档用于存放 [深圳市暖柚科技有限公司](http://www.impingo.me/) 常用插件的静态资源地址。
 
+以后注意添加版本号
+
+#####bootstrap 3.3.5
+	
+	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>	
+
+	<link rel="stylesheet" type="text/css" href="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/bootstrap-3.3.5/css/bootstrap.min.css">
+
 #####jquery
 
 	<script src="http://7xnv74.com1.z0.glb.clouddn.com/static/lib/jquery/jquery-2.1.4.min.js"></script>
